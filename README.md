@@ -1,6 +1,6 @@
 # 🌐 Azure AI | AI-102 Learning Labs & Proof of Concepts
 
-This repository contains structured, hands-on Proof of Concepts (PoCs), prompt engineering examples, and resource setup guides aligned to the **Microsoft AI-102: Designing and Implementing a Microsoft Azure AI Solution** certification path.
+This repository contains structured, hands-on Proof of Concepts (PoCs), prompt engineering examples, and resource setup guides aligned to the **Microsoft AI-102: Designing and Implementing a Microsoft Azure AI Solution**.
 
 > 💡 Built with real-world use cases using **Azure OpenAI**, this repo bridges theory with practice and helps reinforce each learning objective through working code and design patterns.
 
